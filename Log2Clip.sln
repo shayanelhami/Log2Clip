@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{654139CF-5797-4621-8AAD-0CC1EAE4F7EF}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\Git.exe = Lib\Git.exe
+		Lib\Git.pdb = Lib\Git.pdb
+		Lib\Git.xml = Lib\Git.xml
+		Lib\GitSharp.Core.dll = Lib\GitSharp.Core.dll
+		Lib\GitSharp.Core.pdb = Lib\GitSharp.Core.pdb
+		Lib\GitSharp.Core.xml = Lib\GitSharp.Core.xml
+		Lib\GitSharp.dll = Lib\GitSharp.dll
+		Lib\GitSharp.pdb = Lib\GitSharp.pdb
+		Lib\GitSharp.Tests.dll = Lib\GitSharp.Tests.dll
+		Lib\GitSharp.Tests.pdb = Lib\GitSharp.Tests.pdb
+		Lib\GitSharp.Tests.xml = Lib\GitSharp.Tests.xml
+		Lib\GitSharp.xml = Lib\GitSharp.xml
+		Lib\ICSharpCode.SharpZipLib.dll = Lib\ICSharpCode.SharpZipLib.dll
+		Lib\nunit.framework.dll = Lib\nunit.framework.dll
+		Lib\Tamir.SharpSSH.dll = Lib\Tamir.SharpSSH.dll
+		Lib\Winterdom.IO.FileMap.dll = Lib\Winterdom.IO.FileMap.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log2Clip", "Log2Clip.csproj", "{1D2902F6-73B2-4509-933C-CCCCEEFD28AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2902F6-73B2-4509-933C-CCCCEEFD28AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2902F6-73B2-4509-933C-CCCCEEFD28AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2902F6-73B2-4509-933C-CCCCEEFD28AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2902F6-73B2-4509-933C-CCCCEEFD28AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
